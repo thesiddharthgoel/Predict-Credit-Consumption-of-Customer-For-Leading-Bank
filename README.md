@@ -1,4 +1,4 @@
-# Predict-Credit-Consumption-of-Customer-For-Leading-Bank
+# Predicting-Credit-Consumption-of-Customer-For-Leading-Bank
 
 Business Context:
 Analytics driving every industry based on a variety of technology platforms which collect information
